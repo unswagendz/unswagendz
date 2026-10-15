@@ -1,16 +1,13 @@
-## Hi there 👋
+## unswagendz — nice to meet you 👋
 
-<!--
-**unswagendz/unswagendz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Crafting small web tools, micro-SaaS experiments, and automation scripts. Based in Singapore.
 
-Here are some ideas to get you started:
+- rewrites it once, then leaves it alone
+- reach me at **@unswagendz** on GitHub
+- probably overthinking a database schema right now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unswagendz&layout=compact&langs_count=8&hide_border=true&theme=onedark" alt="Top languages" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=unswagendz&hide_border=true&theme=onedark" alt="Commit streak" />
+
+<img src="https://img.shields.io/badge/TypeScript-fb923c?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React-fb923c?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/SQLite-fb923c?style=for-the-badge&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Python-fb923c?style=for-the-badge&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/FastAPI-fb923c?style=for-the-badge&logoColor=white" alt="FastAPI" />
